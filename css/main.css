@@ -1,0 +1,50 @@
+.header-options {
+    float: right;
+    padding-right: 20px;
+}
+
+#header {
+    padding-bottom: 100px;
+}
+
+#logo {
+    display: block;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+#searchbox {
+    background-color: blueviolet;
+    padding: 20px 0px;
+}
+#search-buttons {
+    display: block;
+    margin: auto;
+}
+
+.left-search-button {
+    width: 49%;
+    float:left;
+}
+
+.right-search-button {
+    width: 49%;
+    float: right;
+}
+
+.left-search-button p{
+    float: right;
+}
+.right-search-button p{
+    float: left;
+}
+
+#languages p {
+    text-align: center;
+}
+
+#search-buttons p {
+    background-color: #dadada;
+    padding: 9px 15px;
+    border-radius: 5px;
+}
